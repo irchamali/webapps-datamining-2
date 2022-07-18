@@ -1,7 +1,6 @@
 # Data Mining 
 
 
-## Data Resource
+## Data Resources
 - https://allisonhorst.github.io/palmerpenguins/
-- https://github.com/dataprofessor/code/tree/master/streamlit/part3'
-
+- https://github.com/dataprofessor/code/tree/master/streamlit/part3
